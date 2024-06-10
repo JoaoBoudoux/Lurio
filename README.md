@@ -34,18 +34,10 @@ Execução do Projeto
 Para rodar o projeto Lurio, siga os seguintes passos: 
 
 Clonar o repositório: 
-git clone https:// github.com/paulotruly/Lurio 
+git clone https://github.com/JoaoBoudoux/Lurio.git
  
 Iniciar o jogo: 
 npm start
  
 Conclusão 
 O projeto Lurio representa uma recriação divertida e desafiadora do clássico Mario, com um novo personagem e novas mecânicas de jogo. Desenvolvido puramente em JavaScript, o projeto demonstra como tecnologias modernas podem ser utilizadas para reviver clássicos dos videogames, proporcionando uma experiência nostálgica e envolvente.
-
-Equipe: 
-
-Elvio do Nascimento Vieira Júnior - 01439580
-João Victor de Lima Boudoux - 01418757
-Keven Wilian Monteiro de Freitas - 01486344
-Paulo Henrique Gomes - 01480582
-Pedro Tavares Gomes Ferreira - 01481518
